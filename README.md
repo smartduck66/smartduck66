@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on scores_cac40 and kiko
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m mainly using HTML, CSS, JS and Vue.js
+- 💬 My favourite podcast is Syntax.fm
 <!--
 **smartduck66/smartduck66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

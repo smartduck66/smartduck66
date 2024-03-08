@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on scores_cac40 and kiko
-- 🌱 I’m mainly using HTML, CSS, JS and Vue.js
+- 🌱 I’m mainly using HTML, CSS, JS, node.js and Vue.js (several years ago, a bit of C++)
 - 🌱 I’m currently investigating HTMX
 - 💬 My favourite podcast is Syntax.fm
 <!--

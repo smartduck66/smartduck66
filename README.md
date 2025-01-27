@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on scores_cac40 and kiko
+- 🔭 I’m just finishing www.pharaon-magazine.fr and I'm searching my new project!
 - 🌱 I’m mainly using HTML, CSS, JS, node.js and Vue.js (several years ago, a bit of C++)
 - 🌱 I’m currently investigating Transformers.js, HTMX and TresJS
 - 💬 My favourite podcast is Syntax.fm

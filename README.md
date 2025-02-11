@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m just finishing www.pharaon-magazine.fr and I'm searching my new project!
+- 🔭 I delivered www.pharaon-magazine.fr at the end of 2024, and I'm looking for my new project!
 - 🌱 I’m mainly using HTML, CSS, JS, node.js and Vue.js (several years ago, a bit of C++)
 - 🌱 I’m currently investigating .Net9, Transformers.js and TresJS
 - 💬 My favourite podcasts are Syntax.fm, devtools.fm, Maintainable and The Pragmatic Engineer

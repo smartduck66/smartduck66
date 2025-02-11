@@ -2,7 +2,7 @@
 
 - 🔭 I’m just finishing www.pharaon-magazine.fr and I'm searching my new project!
 - 🌱 I’m mainly using HTML, CSS, JS, node.js and Vue.js (several years ago, a bit of C++)
-- 🌱 I’m currently investigating Transformers.js, HTMX and TresJS
+- 🌱 I’m currently investigating .Net9, Transformers.js and TresJS
 - 💬 My favourite podcast is Syntax.fm
 <!--
 **smartduck66/smartduck66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
